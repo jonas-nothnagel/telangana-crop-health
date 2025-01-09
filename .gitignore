@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# large data folder
+
+/data/sentinel-2-basic
+/data/sentinel-2-all
